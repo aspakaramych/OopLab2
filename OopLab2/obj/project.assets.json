@@ -8,8 +8,7 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vgrig\\.nuget\\packages\\": {},
-    "D:\\VSCommunity\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vgrig\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -20,12 +19,8 @@
       "packagesPath": "C:\\Users\\vgrig\\.nuget\\packages\\",
       "outputPath": "D:\\projects\\OopLab2\\OopLab2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\VSCommunity\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vgrig\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\vgrig\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
